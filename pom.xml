@@ -44,6 +44,11 @@
             <artifactId>jte</artifactId>
             <version>3.1.9</version>
         </dependency>
+        <dependency>
+            <groupId>org.svenehrke.webjars</groupId>
+            <artifactId>baloise-design-system</artifactId>
+            <version>16.1.0</version>
+        </dependency>
     </dependencies>
 
     <build>
