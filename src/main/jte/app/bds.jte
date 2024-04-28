@@ -30,6 +30,7 @@
 		<bal-button href="https://design.baloise.dev" target="_blank"> Check out the Documentation</bal-button>
 		<bal-icon name="info-circle" size="large" class="mt-large"></bal-icon>
 		<bal-icon id="balIconConsultant" size="large" svg="" class="mt-large"></bal-icon>
+		<bal-icon id="balBrandIconTheftCarGreen" size="large" svg="" class="mt-large"></bal-icon>
 	</main>
 	<bal-footer>
 		<!-- Footer content -->
