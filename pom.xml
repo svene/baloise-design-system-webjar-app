@@ -44,10 +44,12 @@
             <artifactId>jte</artifactId>
             <version>3.1.9</version>
         </dependency>
+
+        <!-- see https://github.com/baloise-incubator/baloise-design-system-webjar (atm: clone, mvn install; since gh-package is not available yet) -->
         <dependency>
-            <groupId>org.svenehrke.webjars</groupId>
+            <groupId>com.baloise.webjars</groupId>
             <artifactId>baloise-design-system</artifactId>
-            <version>16.1.0</version>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 

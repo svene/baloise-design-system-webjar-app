@@ -9,13 +9,9 @@ public class DemoController {
 
 	@GetMapping("/")
 	public RedirectView index() {
-		return new RedirectView("/hello");
+		return new RedirectView("/bds");
 	}
 
-	@GetMapping("/hello")
-	public String hello() {
-		return "app/hello";
-	}
 	@GetMapping("/bds")
 	public String bds() {
 		return "app/bds";
